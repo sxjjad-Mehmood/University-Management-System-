@@ -47,13 +47,13 @@ It is designed to automate and simplify university operations such as managing s
 
 ## 📸 Screenshots
 🔑 Login Screen
-<img src="Screenshots/login.png" alt="Login Screen" width="600"/>
+<img src="Screenshots/login.png" alt="Login Screen" width="400"/><br>
 🏠 Home Dashboard
-<img src="Screenshots/home.png" alt="Home Screen" width="600"/>
+<img src="Screenshots/home.png" alt="Home Screen" width="400"/><br>
 🏫 Department Management
-<img src="Screenshots/department.png" alt="Department Screen" width="600"/>
+<img src="Screenshots/department.png" alt="Department Screen" width="400"/><br>
 👩‍🎓 Student Management
-<img src="Screenshots/student.png" alt="Student Screen" width="600"/>
+<img src="Screenshots/student.png" alt="Student Screen" width="400"/>
 
 
 
